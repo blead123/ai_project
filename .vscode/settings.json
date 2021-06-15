@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "F:\\new\\python.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    }
+}
